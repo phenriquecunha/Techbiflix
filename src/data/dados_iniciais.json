@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Pedro",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Victor",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Sabrina",
       "cor": "orange",
       "videos": [
         {
